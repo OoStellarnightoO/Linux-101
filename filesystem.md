@@ -1,6 +1,8 @@
 # Linux Filesystem Hierarchy Standard
 > / #root directory
+
 > /bin #executable programs needed in single user mode
+
 > /boot #static files for boot loader
 > /dev #special or device files
 > /etc #configuration files local to the machine
